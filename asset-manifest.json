@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coincap/static/css/main.9f3bdc78.chunk.css",
+    "main.js": "/coincap/static/js/main.8ea17713.chunk.js",
+    "main.js.map": "/coincap/static/js/main.8ea17713.chunk.js.map",
+    "runtime-main.js": "/coincap/static/js/runtime-main.175cb792.js",
+    "runtime-main.js.map": "/coincap/static/js/runtime-main.175cb792.js.map",
+    "static/js/2.dfbf7eee.chunk.js": "/coincap/static/js/2.dfbf7eee.chunk.js",
+    "static/js/2.dfbf7eee.chunk.js.map": "/coincap/static/js/2.dfbf7eee.chunk.js.map",
+    "static/js/3.479dc10f.chunk.js": "/coincap/static/js/3.479dc10f.chunk.js",
+    "static/js/3.479dc10f.chunk.js.map": "/coincap/static/js/3.479dc10f.chunk.js.map",
+    "index.html": "/coincap/index.html",
+    "static/css/main.9f3bdc78.chunk.css.map": "/coincap/static/css/main.9f3bdc78.chunk.css.map",
+    "static/js/2.dfbf7eee.chunk.js.LICENSE.txt": "/coincap/static/js/2.dfbf7eee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.175cb792.js",
+    "static/js/2.dfbf7eee.chunk.js",
+    "static/css/main.9f3bdc78.chunk.css",
+    "static/js/main.8ea17713.chunk.js"
+  ]
+}
