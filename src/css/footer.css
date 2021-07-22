@@ -1,0 +1,49 @@
+.footer_container {
+    background-image: linear-gradient(to right, rgb(63, 81, 181), rgb(100, 181, 246));
+    width: 100%;
+    min-width: fit-content;
+    padding: 2.625em 0;
+}
+.footer_container .foo_con {
+    width: 100%;
+}
+.footer_container .foo_content {
+    padding: 0.875em;
+}
+.footer_container .footer_head {
+    color: rgba(255,255,255,0.9);
+    margin-bottom: 1em;
+    font-weight: 700;
+    font-size: 0.875em;
+}
+.footer_container .footer_head1 {
+    color: rgba(255,255,255,0.9);
+    margin-bottom: 1em;
+    margin-top: 1.85em;
+    font-weight: 700;
+    font-size: 0.875em;
+}
+.footer_container .footer_txt {
+    color: #FFFFFF;
+    opacity: 0.5;
+    font-size: 0.875em;
+    padding: 0.225em 0;
+    cursor: pointer;
+}
+.footer_container .footer_txt:hover {
+    opacity: 1;
+}
+.footer_container .footer_txt1 {
+    color: #FFFFFF;
+    opacity: 0.5;
+    font-size: 0.875em;
+    padding: 0.225em 0;
+}
+.footer_container .icon {
+    color: rgba(255,255,255,0.75);
+    padding-right: 0.25em;
+    cursor: pointer;
+}
+.footer_container .icon:hover {
+    color: #FFFFFF;
+}

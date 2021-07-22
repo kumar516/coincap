@@ -1,0 +1,108 @@
+.dashboard_container {
+    min-width: fit-content;
+    width: 100%;
+    background: rgb(236, 239, 241);
+    padding-top: 1em;
+}
+.dashboard_container .dashboard_main_con {
+    background: linear-gradient(to right, rgb(63, 81, 181), rgb(100, 181, 246)) rgb(255, 255, 255);
+    height: 12.5625em;
+}
+.dashboard_container .grid_main {
+    padding: 0.9em;
+    color: rgba(255,255,255,0.95);
+    text-align: center;
+}
+.dashboard_container .main_txt {
+    font-size: 0.875em;
+    font-weight: 700;
+}
+.dashboard_container .main_value {
+    font-size: 1.3125em;
+    font-weight: 400;
+}
+.dashboard_container table {
+    border-collapse: collapse;
+    width: 100%;
+    box-shadow: rgb(0 0 0 / 40%) 0px 2px 15px -3px !important;
+    border-radius: 0.29em;
+    margin-bottom: -5em;
+}
+.dashboard_container table thead th {
+    color: #00000099;
+    font-weight: 500;
+    font-size: 0.7875em;
+    padding: 1.25em 0.785em;
+}
+.dashboard_container table thead tr {
+    background: #FAFAFA;
+}
+.dashboard_container table tbody td {
+    color: #000000E6;
+    font-size: 0.875em;
+    padding: 0.8505em 0.7065em;
+    border-top: 1px solid rgba(34,36,38,.1);
+}
+.dashboard_container table tbody .green {
+    color:rgb(24, 198, 131) !important;
+}
+.dashboard_container table tbody .red {
+    color:rgb(244, 67, 54) !important;
+}
+.dashboard_container table tbody tr:hover {
+    background: rgba(0,0,0,.05)!important;
+    color: rgba(0,0,0,.95)!important;
+}
+.dashboard_container .end {
+    text-align: end;
+}
+.dashboard_container .center {
+    text-align: center;
+}
+.dashboard_container .start {
+    text-align: start;
+}
+.dashboard_container .name_con {
+    display: flex;
+}
+.dashboard_container .name_con img{
+    width: 2.125em;
+    height: 2.125em;
+    margin-right: 0.45em;
+}
+.dashboard_container .name_con .symbol{
+    opacity: 0.7;
+    font-size: 0.8em;
+}
+.dashboard_container .table {
+    position: relative;
+    top: -7.5em;
+    background: #FFFFFF;
+    z-index: 1;
+}
+.dashboard_container .table_container {
+    position: relative;
+}
+.dashboard_container .btn_container {
+    box-shadow: rgb(0 0 0 / 40%) 0px 2px 15px -3px;
+    background: rgb(24, 198, 131) !important;
+    border-radius: 10em;
+    font-weight: 700;
+    color: #ffffff;
+    height: 2.575em;
+    margin: 0 1.145em 1.5em 1.145em;
+    width: 8em;
+    text-transform: capitalize;
+}
+.dashboard_container .btn_txt {
+    font-size: 0.875em;
+}
+.dashboard_container .view_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dashboard_container .name_txt:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
